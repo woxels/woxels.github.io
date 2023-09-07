@@ -35,12 +35,12 @@ Your state is automatically saved.
 * F8 = Export voxels as TEXT to the browser console.
 * F9 = Export voxels as PLY ASCII to the browser console.
 
-When exporting as ply you will want to merge vertices by distance in Blender
+When **exporting as ply** you will want to merge vertices by distance in Blender
 or `Cleaning and Repairing > Merge Close Vertices` in MeshLab.
 
-The mouse sensitivity is changed by supplying it as the only url parameter as so: https://woxel.xyz?0.01 will set the mouse sensitivity to 0.01.
+The **mouse sensitivity** is changed by supplying it as the only url parameter as so: https://woxel.xyz?0.01 will set the mouse sensitivity to 0.01.
 
-To set colors in the palette you must specify the color id (1-32) and then then HEX color as 6 characters without the #, e.g; https://woxel.xyz?1&00FFFF will set color 1 in the palette to #00FFFF (cyan).
+**To set colors in the palette** you must specify the color id (1-32) and then then HEX color as 6 characters without the #, e.g; https://woxel.xyz?1&00FFFF will set color 1 in the palette to #00FFFF (cyan).
 
 #### Menu Palette:
 * Middle Mouse clicking the color palette in the menu will copy the hex of the pointed color to the clipboard.
