@@ -43,6 +43,6 @@ The **mouse sensitivity** is changed by supplying it as the only url parameter a
 **To set colors in the palette** you must specify the color id (1-32) and then then HEX color as 6 characters without the #, e.g; https://woxel.xyz?1&00FFFF will set color 1 in the palette to #00FFFF (cyan).
 
 #### Menu Palette:
-* Middle Mouse clicking the color palette in the menu will copy the hex of the pointed color to the clipboard.
-* Right Mouse clicking the color palette in the menu will randomize the color pointed to in the palette.
-Default Color Palette: https://lospec.com/palette-list/resurrect-32
+* **Middle Mouse** clicking the color palette in the menu will copy the hex of the pointed color to the clipboard.
+* **Right Mouse** clicking the color palette in the menu will randomize the color pointed to in the palette.
+* Default Color Palette: https://lospec.com/palette-list/resurrect-32
