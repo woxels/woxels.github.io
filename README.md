@@ -9,6 +9,8 @@
 
 Mouse locks when you click on the window, press ESCAPE to unlock the mouse.
 
+Your state is automatically saved.
+
 #### Movement:
 * W,A,S,D / UP,DOWN,LEFT,RIGHT = Move around based on relative orientation to X and Y.
 * SPACE / L-SHIFT // R-CTRL / R-SHIFT = Move up and down relative Z.
@@ -33,12 +35,8 @@ Mouse locks when you click on the window, press ESCAPE to unlock the mouse.
 * F8 = Export voxels as TEXT to the browser console.
 * F9 = Export voxels as PLY ASCII to the browser console.
 
-* Your state is automatically saved.
-
 When exporting as ply you will want to merge vertices by distance in Blender
 or `Cleaning and Repairing > Merge Close Vertices` in MeshLab.
-
-Default Color Palette: https://lospec.com/palette-list/resurrect-32
 
 The mouse sensitivity is changed by supplying it as the only url parameter as so: https://woxel.xyz?0.01 will set the mouse sensitivity to 0.01.
 
@@ -47,3 +45,4 @@ To set colors in the palette you must specify the color id (1-32) and then then 
 #### Menu Palette:
 * Middle Mouse clicking the color palette in the menu will copy the hex of the pointed color to the clipboard.
 * Right Mouse clicking the color palette in the menu will randomize the color pointed to in the palette.
+Default Color Palette: https://lospec.com/palette-list/resurrect-32
