@@ -36,7 +36,7 @@ Your state is automatically saved.
 * F8 = Export voxels as TEXT to the browser console.
 * F9 = Export voxels as PLY ASCII to the browser console.
 
-When **exporting as ply** you will want to merge vertices by distance in Blender
+When **exporting as ply** you will want to `merge vertices by distance` in Blender
 or `Cleaning and Repairing > Merge Close Vertices` in MeshLab.
 
 The **mouse sensitivity** is changed by supplying it as the only url parameter as so: https://woxel.xyz?0.01 will set the mouse sensitivity to 0.01.
