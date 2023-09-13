@@ -6,6 +6,7 @@
 ╚███╔███╔╝╚██████╔╝██╔╝ ██╗███████╗███████╗    ╚███╔███╔╝███████╗██████╔╝
  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝     ╚══╝╚══╝ ╚══════╝╚═════╝ 
 ```
+https://woxel.xyz - https://woxel.xyz/solid
 
 Mouse locks when you click on the window, press ESCAPE to unlock the mouse.
 
