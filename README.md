@@ -6,7 +6,7 @@
 ╚███╔███╔╝╚██████╔╝██╔╝ ██╗███████╗███████╗    ╚███╔███╔╝███████╗██████╔╝
  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝     ╚══╝╚══╝ ╚══════╝╚═════╝ 
 ```
-https://woxel.xyz - https://woxel.xyz/solid
+https://woxel.xyz - https://woxel.xyz/solid - https://github.com/woxels/Woxel
 
 Mouse locks when you click on the window, press ESCAPE to unlock the mouse.
 
