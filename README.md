@@ -33,8 +33,8 @@ Your state is automatically saved.
 * F1 = Resets environment state back to default.
 * F2 = Toggle HUD visibility.
 * F7 = Erases all voxels from the canvas and resets state.
-* F8 = Export voxels as TEXT to the browser console.
-* F9 = Export voxels as PLY ASCII to the browser console.
+* F8 = Export voxels as TEXT to file download.
+* F9 = Export voxels as PLY ASCII to file download.
 
 When **exporting as ply** you will want to `merge vertices by distance` in Blender
 or `Cleaning and Repairing > Merge Close Vertices` in MeshLab.
