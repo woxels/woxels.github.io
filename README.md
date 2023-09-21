@@ -23,8 +23,8 @@ Your state is automatically saved.
 * Left Click / U = Place node.
 * Right Click / O = Delete node.
 * I,J,K,L = Look/View pan.
-* Q / Z / Middle Click / Mouse4 = Clone color of pointed node.
-* E / Mouse5 = Replace color of pointed node.
+* Q / Z / Middle Click = Clone color of pointed node.
+* E = Replace color of pointed node.
 * R = Toggle mirror brush.
 * V = Places voxel at current position.
 * X + C / Slash + Quote = Scroll color of pointed node.
